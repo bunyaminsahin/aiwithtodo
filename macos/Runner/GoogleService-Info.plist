@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDub3jJgEd0qri3_2tphxLSrLPqdfnFp9A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>670275740425</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.yapilacaklarnotlarlisteler.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>yapilacaklarnotlar</string>
+	<key>STORAGE_BUCKET</key>
+	<string>yapilacaklarnotlar.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:670275740425:ios:6c3f75785d7339f901e9d8</string>
+</dict>
+</plist>

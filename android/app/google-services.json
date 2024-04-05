@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "670275740425",
+    "project_id": "yapilacaklarnotlar",
+    "storage_bucket": "yapilacaklarnotlar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670275740425:android:5aae63391f75a5f701e9d8",
+        "android_client_info": {
+          "package_name": "com.example.yapilacaklarnotlarlisteler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670275740425-vs9ei694gfgvj2750iv85li8e46k8tgv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yapilacaklarnotlarlisteler",
+            "certificate_hash": "6052a9d27c788d2f4cc492a1dc4f3afc3bbdfea1"
+          }
+        },
+        {
+          "client_id": "670275740425-pgcu8nk7dki8lpjo9vn8hrc064std47o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWgEjPwUQjcbl_Gwdh7MIUzY4DHg9Amtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670275740425-pgcu8nk7dki8lpjo9vn8hrc064std47o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "670275740425-dlameo2fs0a44k3jua5q72e2p9ct8i30.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.yapilacaklarnotlarlisteler"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670275740425:android:1bffb3c39c5f191a01e9d8",
+        "android_client_info": {
+          "package_name": "com.yapilacaklarnotlarlisteler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670275740425-pgcu8nk7dki8lpjo9vn8hrc064std47o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWgEjPwUQjcbl_Gwdh7MIUzY4DHg9Amtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670275740425-pgcu8nk7dki8lpjo9vn8hrc064std47o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "670275740425-dlameo2fs0a44k3jua5q72e2p9ct8i30.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.yapilacaklarnotlarlisteler"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
